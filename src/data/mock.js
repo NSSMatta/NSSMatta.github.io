@@ -5,7 +5,7 @@ export const portfolioData = {
     name: "Naga Sai Srinivas Matta",
     title: "Cybersecurity Professional",
     subtitle: "GRC | Security Operations | Threat Management",
-    email: "nagasaisrinivas@careerattainment.com",
+    email: "nssmatta@gmail.com",
     phone: "+1 (656) 209 1709",
     location: "USA",
     linkedin: "https://www.linkedin.com/in/naga-sai-srinivas-matta-b1596928a/",
@@ -68,7 +68,7 @@ export const portfolioData = {
     {
       id: 1,
       degree: "Master's Degree",
-      field: "Information Security",
+      field: "Cyber Security",
       institution: "University of South Florida",
       location: "USA",
       period: "August 2023 - May 2025",
